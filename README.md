@@ -1,6 +1,6 @@
 # Calorie & Macros Tracker
 The Calorie & Macros Tracker is a command-line tool built to efficiently manage clients' nutritional data.<br>
-By centralizing client information and providing easy-to-use features, this tool streamlines the process of tracking and analyzing dietary data for professionals and enthusiasts alike.
+By centralizing client information and providing easy-to-use features, this tool streamlines the process of tracking and analyzing corporal data for professionals and enthusiasts alike.
 
 # Features:
 1. <b>Menu Interface (menu.sh):</b><br>
